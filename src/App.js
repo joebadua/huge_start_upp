@@ -6,7 +6,9 @@ function App() {
     <div className="App">
       <h1>huge start UP</h1>
       <h2><i>huge</i></h2>
+
       <section id="headers">
+      <p>here's out team! check them out~</p>
         <h2>CRO</h2>
         <img id="pp" src="0.jpeg"></img>
         <h1></h1>
