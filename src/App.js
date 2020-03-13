@@ -8,19 +8,19 @@ function App() {
       <h2><i>huge</i></h2>
 
       <section id="headers">
-      <p>here's out team! check them out~</p>
-        <h2>CRO</h2>
-        <img id="pp" src="0.jpeg"></img>
-        <h1></h1>
-        <h3>Frank C.</h3>
+        <p>here's our team! check them out~</p>
+          <h2>CRO</h2>
+          <img id="pp" src="0.jpeg"></img>
+          <h1></h1>
+          <p>Frank C.</p>
 
-        <h2 id="head">CFO</h2>
-        <img id="pp" src="0-2.jpeg"></img>
-        <h3>Jon S.</h3>
+          <h2 id="head">CFO</h2>
+          <img id="pp" src="0-2.jpeg"></img>
+          <p>Jon S.</p>
 
-        <h2 id="head">CEO</h2>
-        <img id="pp" src="0-3.jpg"></img>
-        <h3>Joe B.</h3>
+          <h2 id="head">CEO</h2>
+          <img id="pp" src="0-3.jpg"></img>
+          <p>Joe B.</p>
       </section>
     </div>
   );
